@@ -1,0 +1,26 @@
+.tablolar{
+    
+    width: 450px;
+    height: 150px;
+    border: 0.1cm solid #000000;
+    text-align: left;
+    background-color: aqua;
+}
+
+.buyukbaslik {
+    text-align: center;
+
+}
+
+.kucukbaslik {
+    text-align: center;
+}
+
+.metin {
+    margin-left: 19cm;
+    margin-right: 19cm;
+}
+
+.link {
+    margin-left: 24cm;
+}
